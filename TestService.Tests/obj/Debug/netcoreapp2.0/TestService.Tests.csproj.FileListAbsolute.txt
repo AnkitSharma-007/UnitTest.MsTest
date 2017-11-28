@@ -1,0 +1,15 @@
+C:\Users\ankit\unit-test-demo\TestService.Tests\obj\Debug\netcoreapp2.0\TestService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ankit\unit-test-demo\TestService.Tests\obj\Debug\netcoreapp2.0\TestService.Tests.AssemblyInfoInputs.cache
+C:\Users\ankit\unit-test-demo\TestService.Tests\obj\Debug\netcoreapp2.0\TestService.Tests.AssemblyInfo.cs
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.Tests.deps.json
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.Tests.runtimeconfig.json
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.Tests.runtimeconfig.dev.json
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.Tests.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.Tests.pdb
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\bin\Debug\netcoreapp2.0\TestService.pdb
+C:\Users\ankit\unit-test-demo\TestService.Tests\obj\Debug\netcoreapp2.0\TestService.Tests.dll
+C:\Users\ankit\unit-test-demo\TestService.Tests\obj\Debug\netcoreapp2.0\TestService.Tests.pdb

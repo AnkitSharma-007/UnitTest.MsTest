@@ -1,0 +1,8 @@
+C:\Users\ankit\unit-test-demo\TestService\bin\Debug\netstandard2.0\TestService.deps.json
+C:\Users\ankit\unit-test-demo\TestService\bin\Debug\netstandard2.0\TestService.dll
+C:\Users\ankit\unit-test-demo\TestService\bin\Debug\netstandard2.0\TestService.pdb
+C:\Users\ankit\unit-test-demo\TestService\obj\Debug\netstandard2.0\TestService.csproj.CoreCompileInputs.cache
+C:\Users\ankit\unit-test-demo\TestService\obj\Debug\netstandard2.0\TestService.AssemblyInfoInputs.cache
+C:\Users\ankit\unit-test-demo\TestService\obj\Debug\netstandard2.0\TestService.AssemblyInfo.cs
+C:\Users\ankit\unit-test-demo\TestService\obj\Debug\netstandard2.0\TestService.dll
+C:\Users\ankit\unit-test-demo\TestService\obj\Debug\netstandard2.0\TestService.pdb
